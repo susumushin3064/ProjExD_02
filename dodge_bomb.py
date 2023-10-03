@@ -24,7 +24,6 @@ def check_bound(obj_rct: pg.Rect):
     return yoko, tate
 
 
-
 def main():
     pg.display.set_caption("逃げろ！こうかとん")
     screen = pg.display.set_mode((WIDTH, HEIGHT))
