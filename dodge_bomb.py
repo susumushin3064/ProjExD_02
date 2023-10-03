@@ -7,7 +7,7 @@ WIDTH, HEIGHT = 1600, 900
 
 
 delta = {
-    pg.K_UP: (0, 5),
+    pg.K_UP: (0, -5),
     pg.K_DOWN: (0, +5),
     pg.K_LEFT: (-5, 0),
     pg.K_RIGHT: (+5, 0),
