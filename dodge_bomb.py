@@ -14,6 +14,7 @@ delta = {
 }
 
 
+
 def check_bound(obj_rct: pg.Rect):
     yoko, tate = True, True
     if obj_rct.left < 0 or WIDTH < obj_rct.right:
